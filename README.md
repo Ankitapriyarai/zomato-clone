@@ -4,7 +4,8 @@ I have made this clone with the help of html and css.
 Html is used for designing the website and css is used for styling it.
 
 #deploy link
-https://poetic-gecko-6b0ad7.netlify.app/
+
+    https://poetic-gecko-6b0ad7.netlify.app/
 
  #  project screen shots:
  
